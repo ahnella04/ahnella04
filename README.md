@@ -50,6 +50,3 @@
 <a href="https://velog.io/@ahnella04" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
 
 <br>
-
-# 이메일 💅🏻
-<a href="ahnella04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
